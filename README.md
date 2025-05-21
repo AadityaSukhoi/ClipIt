@@ -1,1 +1,1 @@
-# ClipIT Docs
+# ClipIT - Real Time YouTube Livestream Clip Collector with Nightbot Integration
